@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+ struct ogrencinot {
+ 	int no;
+ 	int vizenot;
+ 	int quiznot;
+ 	int final;
+ };
+ 
+int main() {
+	struct ogrencinot ogr;
+	ogr.no=123
+	ogr.vizenot[0]= 55;
+	ogr.vizenot[1]= 45;
+	ogr.vizenot[0]= 65;
+	ogr.vizenot[1]= 85;
+	ogr.final=99;
+	
+	return 0;
+}
